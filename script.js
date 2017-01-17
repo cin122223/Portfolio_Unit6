@@ -1,7 +1,7 @@
 $(document).ready(function(){
     //Write all your jQuery code here
         $("button").click(function() {
-      $("#like").html("I am awesome!");
+      $("#like").html("This my first website, guys!");
     });
     
     
